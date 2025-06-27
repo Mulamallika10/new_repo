@@ -1,0 +1,12 @@
+--->to see the current username,email in git bash
+
+>>git config user.name
+>>git config user.email
+
+--->to see the current branch
+
+>>git branch
+
+>>git config --global user.name "Your name"
+
+>>git config --global user.email "Your email"
