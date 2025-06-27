@@ -10,3 +10,18 @@
 >>git config --global user.name "Your name"
 
 >>git config --global user.email "Your email"
+
+
+--->inserting a file in the git bash:::::
+
+>>cat>myfile.txt
+then type the text
+press control+D for save and exit
+
+>>vi newfile.txt
+then type the text how many lines u want
+press escape
+:wq(write quite)
+
+
+
